@@ -40,6 +40,18 @@ Agile promotes ongoing collaboration.
 Waterfall is sequential and rigid, with distinct phases completed in order.
 Waterfall focuses on thorough planning and execution in predetermined stages.
 
+When Agile is ideal:
+
+    Ideal for dynamic environments or projects with evolving requirements.
+    Suitable for startups, innovative products, and continuous improvement initiatives.
+    Requires active stakeholder involvement and dedicated resources.
+
+When Waterfall is ideal:
+
+    Preferable for projects with well-defined requirements and strict budgets or deadlines.
+    Commonly used in government contracts, large-scale infrastructure projects, and industries with regulatory compliance needs.
+    Offers predictability in project timelines and budgets, but may struggle with accommodating changes late in the development cycle.
+
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
